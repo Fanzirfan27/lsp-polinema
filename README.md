@@ -75,6 +75,7 @@ Menyediakan platform yang efisien dan terstruktur untuk mengelola surat masuk da
     ```bash
     php artisan serve
     ```
+    masuk ke /halaman
 
 **Screenshot Aplikasi**
 
